@@ -24,8 +24,8 @@ You may have to install them in binder.
 - [x] 4. Differential
 - [x] 5. Integration
 - [x] 6. Ordinary Differential Equations
-- [ ] 7. Matrix Computation
-- [ ] 8. Partial Differential Equations
+- [x] 7. Matrix Computation
+- [x] 8. Partial Differential Equations
 - [ ] 9. Fourier Transformations
 - [ ] 10. Particle-in-cell Simulation
 - [ ] 11. Monte-Carlo Method
