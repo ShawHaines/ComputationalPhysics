@@ -12,8 +12,12 @@
 #define NFP     1000   /* grid number of distribution function */
 #define name_length   100    /* not too small, otherwise error */
 
-//#define max(x,y)			(((x)>(y))?(x):(y))
-//#define min(x,y)			(((x)<(y))?(x):(y))
+#ifndef max
+#define max(x,y)			(((x)>(y))?(x):(y))
+#endif
+#ifndef min
+#define min(x,y)			(((x)<(y))?(x):(y))
+#endif
 #define sign(x)				((x)/fabs(x))
 
 /*********************** global variables **********************/
