@@ -11,5 +11,5 @@ amplitude_1    =0.1      # <=0.1,a0 of the first pulse,a0=eE/(mc*omega)
 ________________________________________________________
 &output
 --------------------------------------------------------
-path           =E:\JPIC1d\jpic1d_comp\Debug\data   # output path
+path           =./data   # output path
 --------------------------------------------------------
