@@ -8,9 +8,9 @@ void
 History(counter)
 int counter;
 {
-  char	file1[name_length]="1",file2[name_length]="2",
-				file3[name_length]="3",file4[name_length]="4",
-				file5[name_length]="5",file6[name_length]="6";
+  char	file1[name_length],file2[name_length],
+				file3[name_length],file4[name_length],
+				file5[name_length],file6[name_length];
 
   if(counter==0){
 		if(Q_trace_energy){
