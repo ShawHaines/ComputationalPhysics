@@ -30,4 +30,4 @@ You may have to install them in binder.
 - [ ] 9. Fourier Transformations
 - [x] 10. Particle-in-cell Simulation
 - [x] 11. Monte-Carlo Method
-- [ ] 12. Parallel Programming
+- [x] 12. Parallel Programming

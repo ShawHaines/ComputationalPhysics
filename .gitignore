@@ -368,6 +368,6 @@ FodyWeavers.xsd
 *.exe
 data/
 !/jpic1d_comp/data/input.inp
+!/mpi_comp2/Debug/2dppicv1_s1.exe
 !/mpi_comp2/Debug/data/
-/mpi_comp2/Debug/data/*.txt
 !/mpi_comp2/Debug/data/wave_MV.m
