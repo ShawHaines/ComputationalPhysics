@@ -31,12 +31,12 @@ First check the folder structure and confirm that no files are missing.
 
 You should be at this folder before continuing to the next step.
 
-Compile:
+Compile: Type in terminal(cmd or powershell)
 `gcc ./src/jpic.c -o jpic`
 
 If all things go well, a executable `jpic.exe` should appear under the same folder.
 
-Run:
+Run: Type
 `./jpic.exe ./data/input.inp`
 
 Data would be written into `./data/` folder.

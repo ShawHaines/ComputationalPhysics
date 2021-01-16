@@ -13,6 +13,7 @@ The project may requires python modules below:
 * numpy
 * matplotlib
 * math
+* scipy
 
 You may have to install them in binder.
 
@@ -27,6 +28,6 @@ You may have to install them in binder.
 - [x] 7. Matrix Computation
 - [x] 8. Partial Differential Equations
 - [ ] 9. Fourier Transformations
-- [ ] 10. Particle-in-cell Simulation
-- [ ] 11. Monte-Carlo Method
+- [x] 10. Particle-in-cell Simulation
+- [x] 11. Monte-Carlo Method
 - [ ] 12. Parallel Programming
