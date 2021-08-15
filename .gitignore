@@ -2,3 +2,6 @@
 .ipynb_checkpoints/
 *.pdf
 *.html
+*.exe
+data/
+!/jpic1d_comp/data/input.inp
